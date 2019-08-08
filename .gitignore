@@ -1,9 +1,9 @@
 # -----
 build/
 ffmpeg-temp/
-android/ffmpeg-*
+#android/ffmpeg-*
 android/openssl-*
-ios/ffmpeg-*
+#ios/ffmpeg-*
 ios/openssl-*
 extra
 .DS_Store
